@@ -10,21 +10,16 @@ The goal was to build a website that would allow us to play Sudoku online, a lar
 
 |Technology                 |Used for                        |
 |---------------------------|--------------------------------|
-|Ruby                       |Programming language            |
-- Sublime Text
-- Git
-- Gems
-- Sinatra
-- Ruby
-- HTML
-- CSS
-- Object-oriented-programming
-- Heroku
-- Shotgun
-- rack-flash
+|Ruby                       |Object-oriented-programming    |
+|Sinatra                    |Web application library         |
+|Heroku                   |Deployment: [App on Heroku]     |
+|HTML5                      |Web Pages                       |
+|CSS3                       |Styling                         |
+|Shotgun |  | |
+|rack-flash | | |
 
 ##Pairing
-This project was made by the following colaborators:
+This app was created by the following colaborators:
 - Emma Williams
 - [Shelley Hope]
 - [Steve Musgrave]
@@ -41,3 +36,6 @@ shotgun server.rb
 [Shelley Hope]:https://github.com/ShelleyHope
 [Steve Musgrave]:https://github.com/StephanMusgrave
 [App on Heroku]:http//fierce-dawn-5665.herokuapp.com
+
+## Further work to do
+
