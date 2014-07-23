@@ -1,5 +1,5 @@
 #Sudoku Web Version
-Week 5 project at Makers Academy
+Week 5 project at [Makers Academy]
 ![](Sudoku.png?raw=true)
 
 ## Learning Objectives
@@ -36,6 +36,7 @@ shotgun server.rb
 [Shelley Hope]:https://github.com/ShelleyHope
 [Steve Musgrave]:https://github.com/StephanMusgrave
 [App on Heroku]:http//fierce-dawn-5665.herokuapp.com
+[Makers Academy]:http://www.makersacademy.com
 
 ## Further work to do
 
